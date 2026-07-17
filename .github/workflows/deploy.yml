@@ -9,7 +9,6 @@ jobs:
       - name: 拉取仓库源码
         uses: actions/checkout@v4
         with:
-          submodules: true
           fetch-depth: 0
 
       - name: 安装Hugo 0.164.0扩展版
