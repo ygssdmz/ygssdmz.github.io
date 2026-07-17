@@ -1,0 +1,4 @@
+baseURL = 'https://ygssdmz.github.io/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'hugo-PaperMod-master'
